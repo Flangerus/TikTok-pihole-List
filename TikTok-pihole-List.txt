@@ -1,3 +1,5 @@
+tiktok.com
+
 p16-sign.tiktokcdn-us.com
 
 v16-webapp.tiktok.com
