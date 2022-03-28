@@ -3,7 +3,11 @@ tiktokcdn.com
 
 p16-sign.tiktokcdn-us.com
 p16-sign-sg.tiktokcdn.com
-
+p16-webcast.tiktokcdn.com
 v16-webapp.tiktok.com
-
 lf16-tiktok-common.ttwstatic.com
+
+tiktok.freeflow.sched.ovscdns.net
+pull-flv-f11-va01.tiktokcdn.com
+
+pull-flv-f11-va01.tiktokcdn.com
