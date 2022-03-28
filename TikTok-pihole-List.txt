@@ -1,5 +1,6 @@
 www.tiktok.com
 www.tiktok.xom
+a2047.r.akamai.net
 
 p16-sign.tiktokcdn-us.com
 p16-sign-sg.tiktokcdn.com
