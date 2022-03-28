@@ -1,2 +1,5 @@
 p16-sign.tiktokcdn-us.com
+
+v16-webapp.tiktok.com
+
 lf16-tiktok-common.ttwstatic.com
