@@ -1,5 +1,5 @@
-tiktok.com
-tiktokcdn.com
+www.tiktok.com
+www.tiktok.xom
 
 p16-sign.tiktokcdn-us.com
 p16-sign-sg.tiktokcdn.com
