@@ -8,6 +8,7 @@ p16-webcast.tiktokcdn.com
 v16-webapp.tiktok.com
 lf16-tiktok-common.ttwstatic.com
 lf16-tiktok-web.ttwstatic.com
+webcast16-ws-useast1a.tiktok.com
 
 tiktok.freeflow.sched.ovscdns.net
 pull-flv-f11-va01.tiktokcdn.com
